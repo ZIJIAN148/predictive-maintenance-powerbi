@@ -3,8 +3,7 @@
 ## 📌 Executive Summary
 This project analyzes manufacturing telemetry to predict mechanical failures and optimize Overall Equipment Effectiveness (OEE). By modeling real-time sensor data (torque, RPM, tool wear), the dashboard identifies critical failure thresholds, enabling data-driven preventative maintenance strategies.
 
-![Dashboard Preview](Screenshot 2026-03-03 225638.png) 
-*(Replace "dashboard-screenshot.png" with your actual screenshot filename if different)*
+![Dashboard Preview](dashboard-screenshot.png)
 
 ---
 
